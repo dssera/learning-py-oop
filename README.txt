@@ -1,5 +1,6 @@
 This little project was created to learn OOP basic in Python.
 I have to include all these point in this project:
+    Source: https://pythonistaplanet.com/python-oop-exercises/
     1. Creating a simple class in Python
     2. Creating a subclass (Inheritance)
     3. Using the super() function
@@ -25,4 +26,15 @@ Main classes:
         -> some types of tasks -> Inheritance -> ...
     Container(?)
         -> ...
+
+
+TODO:
+    1.Learn how to use ABC and some other theory:
+        ● abs classes
+        ● interfaces
+        ● The difference between abs classes and interfaces
+        ● @staticmethod/@classmethod
+        ● Meta classes
+
+
      
